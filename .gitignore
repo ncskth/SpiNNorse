@@ -2,5 +2,3 @@
 application_generated_data_files
 examples
 reports
-*.csv
-*.png
